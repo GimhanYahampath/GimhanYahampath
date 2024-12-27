@@ -15,11 +15,10 @@ Welcome to my GitHub profile! I'm a passionate developer and final-year undergra
 
 ### 🛠️ Skills & Tools  
 - **Programming:** Python, JavaScript, C++  
-- **Web Development:** React.js, Node.js, Express.js  
+- **Web Development:** React.js, Node.js,   
 - **Databases:** MongoDB, MySQL  
-- **Hardware:** ESP32, Arduino, Raspberry Pi  
+- **Hardware:** ESP32, Arduino,ESP8266
 - **Frameworks:** TensorFlow, PyTorch  
-- **Version Control:** Git, GitHub  
 
 ---
 
@@ -34,8 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer and final-year undergra
 
 ---
 
-### 🏆 Achievements  
-- Selected for an internship interview at **Netsys Solution**.  
+### 🏆 Achievements    
 - Designed and implemented multiple robotics and web application projects.  
 - Developed a UI/UX platform to buy and sell cybersecurity tools.  
 
